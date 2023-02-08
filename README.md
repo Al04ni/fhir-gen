@@ -23,9 +23,9 @@ Options:
 ```
 
 ## Installation
-1 Clone this repository to your local machine.
-2 Run `cargo build` to build the project.
-3 Run `cargo install` to install the tool globally on your system.
+- 1 Clone this repository to your local machine.
+- 2 Run `cargo build` to build the project.
+- 3 Run `cargo install` to install the tool globally on your system.
 
 ## Project Structure
 
