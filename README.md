@@ -46,7 +46,6 @@ Options:
     └── patient.toml
 ```
 
-```bash
 | File/Folder Name | Description |
 | --- | --- |
 | `Cargo.toml` | Contains the dependencies and metadata for the project. |
@@ -57,7 +56,7 @@ Options:
 | `src/resources/encounter.rs` | Contains the code for generating encounter resources. |
 | `src/utils/mod.rs` | Exports the utility modules, such as helper functions for generating resources. |
 | `templates/patient.toml` | Example template for generating patient resources. |
-```
+
 
 ## Example
 Generate a sample patient resource in JSON format:
